@@ -1,0 +1,1 @@
+使用prepare_data.py将数据集中的xml标注文件中的信息提取到txt中，在detect.py中设置模型位置和推理目标路径，进行跌倒检测。
